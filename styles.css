@@ -1,0 +1,53 @@
+body{
+  margin-top: 5%;
+  background: #400D01;
+  font-family: 'Roboto', sans-serif;
+  color: #BFA380;
+}
+
+header{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 24px;
+  text-align: center;
+}
+
+nav{
+  background-color: #593311;
+  text-align: center;
+}
+
+article{
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: left;
+}
+
+footer{
+  text-align: center;
+}
+
+a:link {
+  color: #BFA380;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #BF471B;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.flag{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.intro{
+  padding-left: 20%;
+  padding-right: 20%;
+  text-align: center;
+}
+
